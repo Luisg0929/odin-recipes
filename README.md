@@ -7,3 +7,5 @@ This is how my website looked in the beginning with just html
 
 
 Then after learning css it now looks like:
+![alt text](./img/picture_of_after_css.png)
+
